@@ -1,1 +1,0 @@
-import{I as t}from"./index-4b97af1f.js";const s=async()=>await fetch(t+"index.json").then(n=>n.json()).then(n=>n.plugins).catch(n=>(console.error(n),!1)),a=async n=>await fetch(t+"plugins/"+n+".json").then(e=>e.json()).then(e=>e).catch(e=>(console.error(e),!1));export{a,s as g};

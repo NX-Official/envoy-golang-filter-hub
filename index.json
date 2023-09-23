@@ -25,7 +25,7 @@
     {
       "path_name": "example3",
       "name": "Third Example",
-      "version": "1.0.13",
+      "version": "1.0.15",
       "category": "category-B",
       "description": "This is an example plugin.\nIt does nothing.\nIt is a good starting point for new plugins."
     }

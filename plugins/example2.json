@@ -79,6 +79,18 @@
           "url": "https://github.com/NX-Official/envoy-golang-filter-hub/releases/tag/example2|v1.0.10"
         }
       ]
+    },
+    {
+      "version": "1.0.10",
+      "created_at": "2023-09-23",
+      "commit_hash": "dbd10657d4bd9f07846ab87692aaa30bc1085c11",
+      "commit_url": "https://github.com/NX-Official/envoy-golang-filter-hub/commit/dbd10657d4bd9f07846ab87692aaa30bc1085c11",
+      "downloads": [
+        {
+          "type": "GitHub",
+          "url": "https://github.com/NX-Official/envoy-golang-filter-hub/releases/tag/example2|v1.0.10"
+        }
+      ]
     }
   ]
 }
